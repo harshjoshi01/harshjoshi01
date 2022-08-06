@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
+<h1 align="center">Hi there 👋, I am Harsh Joshi!</h1>
 <h2 align="center">I am a final year student pursuing Electronics & Communication Engineering.</h2>
 
 - 📫 How to reach me **joshiharsh818@gmail.com**
